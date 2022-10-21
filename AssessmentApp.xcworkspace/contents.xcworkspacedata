@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:AssessmentApp/Resources/CoreData/CartProduct+CoreDataClass.swift">
+   </FileRef>
+   <FileRef
+      location = "group:AssessmentApp/Resources/CoreData/CartProduct+CoreDataProperties.swift">
+   </FileRef>
+   <FileRef
+      location = "group:AssessmentApp.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
